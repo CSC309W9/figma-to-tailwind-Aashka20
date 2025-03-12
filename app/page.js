@@ -6,8 +6,7 @@ export default function Home() {
         <div className="w-[150px] h-[52px] left-0 top-0 absolute bg-[#eaecd7] rounded-[49px]" />
         <div className="left-[55px] top-[15px] top-0 absolute justify-start text-2xl text-[#db4439] text-base font-black font-['Inknut_Antiqua']">Click</div>
       </div>
-      <div className="origin-top-left rotate-[-8.64deg] w-[543px] h-[590.40px] left-[1068.69px] top-[226px] absolute">
-        <div className="w-[543px] h-[590.40px] left-[88.69px] top-0 absolute bg-[#d9d9d9]" />
+      <div className="origin-top-left rotate-[8.64deg] w-[543px] h-[590.40px] left-[1068.69px] top-[226px] absolute">
         <img className="w-[635.00px] h-[600.71px] left-[60.51px] top-[-17.62px] absolute" src="https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" />
       </div>
       <div className="w-[680px] left-[143px] top-[313px] absolute justify-start text-[#eaecd7] text-[110px] font-black font-['Inknut_Antiqua'] leading-[134.20px]">BlaBla Coffee!</div>
